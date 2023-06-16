@@ -1,9 +1,3 @@
-[submodule "lib/KiCad-RP-Pico"]
-	path = lib/KiCad-RP-Pico
-	url = https://github.com/dpayno/KiCad-RP-Pico
-[submodule "lib/AudioJacks"]
-	path = lib/AudioJacks
-	url = https://github.com/clacktronics/AudioJacks.git
-[submodule "lib/SparkFun-Kicad-Libraries"]
-	path = lib/SparkFun-Kicad-Libraries
-	url = https://github.com/benwis/SparkFun-Kicad-Libraries.git
+[submodule "lib/kicad-lib"]
+	path = lib/kicad-lib
+	url = git@github.com:dpayno/kicad-lib.git
