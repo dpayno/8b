@@ -5401,7 +5401,7 @@
     (property "Value" "1N4148" (at 130.81 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ArcadeButtons:sanwa-obsf-30-g" (at 130.81 185.42 0)
+    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (at 130.81 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" (at 130.81 185.42 0)
